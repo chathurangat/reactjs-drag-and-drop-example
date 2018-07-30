@@ -1,0 +1,16 @@
+.task-list-main {
+
+    height: 80%;
+    width: 50%;
+    background: beige;
+    margin: 2%;
+}
+
+
+.task-list-header{
+
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+    alignment: center;
+}

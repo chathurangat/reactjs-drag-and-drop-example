@@ -1,0 +1,20 @@
+.task-board-main {
+    width: 95vw;
+    height: 90vh;
+    background: aqua;
+    margin: auto;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.task-board-header {
+    text-align: center;
+}
+
+.task-list-section {
+    background: aquamarine;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    display: flex;
+}
